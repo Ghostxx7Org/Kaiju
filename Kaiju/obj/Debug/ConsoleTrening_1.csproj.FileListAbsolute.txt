@@ -1,0 +1,6 @@
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\obj\Debug\ConsoleTrening_1.csprojResolveAssemblyReference.cache
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\bin\Debug\Kaiju.exe.config
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\bin\Debug\Kaiju.exe
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\bin\Debug\Kaiju.pdb
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\obj\Debug\Kaiju.exe
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\obj\Debug\Kaiju.pdb

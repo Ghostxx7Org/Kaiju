@@ -1,0 +1,14 @@
+Apollon% id: %1% Name: %Base Apollon% Version: %1%ThicknessOfTitanium: %1,1% LevelOfLibido: %1%
+Kaiju% id: %2% Name: %Base Kaiju% Version: %1%
+Apollon% id: %1% Name: %Base Apollon% Version: %1%ThicknessOfTitanium: %1,1% LevelOfLibido: %1%
+Kaiju% id: %2% Name: %Base Kaiju% Version: %1%
+Zeus% id: %3% Name: %Base Zeus% Version: %1%ThicknessOfTitanium: %1,1%LightningStrikes: %1%
+Titan% id: %4% Name: %Base Titan% Version: %1%ThicknessOfTitanium: %1,1%
+Gorilla% id: %5% Name: %Base Gorilla% Version: %1% DistanceOfJump: %1%
+Flying% id: %6% Name: %Base Flying% Version: %1%FlightSpeed: %1%
+Apollon% id: %1% Name: %Base Apollon% Version: %1%ThicknessOfTitanium: %1,1% LevelOfLibido: %1%
+Kaiju% id: %2% Name: %Base Kaiju% Version: %1%
+Zeus% id: %3% Name: %Base Zeus% Version: %1%ThicknessOfTitanium: %1,1%LightningStrikes: %1%
+Titan% id: %4% Name: %Base Titan% Version: %1%ThicknessOfTitanium: %1,1%
+Gorilla% id: %5% Name: %Base Gorilla% Version: %1% DistanceOfJump: %1%
+Flying% id: %6% Name: %Base Flying% Version: %1%FlightSpeed: %1%

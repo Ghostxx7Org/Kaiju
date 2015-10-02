@@ -1,0 +1,51 @@
+﻿Error Version:
+Class name:Titan
+Incorrected version:-3
+Message:Выдано исключение типа "NKaiju.IncorectedVersionExeption".
+StackTrace:
+Inner Exeprion: no.
+
+Error Version:
+Class name:Zeus
+Incorrected version:-4
+Message:Выдано исключение типа "NKaiju.IncorectedVersionExeption".
+StackTrace:
+Inner Exeprion: no.
+
+Error Version:
+Class name:Titan
+Incorrected version:-3
+Message:Выдано исключение типа "NKaiju.IncorectedVersionExeption".
+StackTrace:
+Inner Exeprion: no.
+
+Перехватили исключение IncorectedVersionExeption.
+Date:09.04.2014 16:08:48
+
+Error Version:
+Class name:Titan
+Incorrected version:-3
+Message:Выдано исключение типа "NKaiju.IncorectedVersionExeption".
+StackTrace:
+Inner Exeprion: no.
+
+Перехватили исключение IncorectedVersionExeption.
+Date:09.04.2014 16:15:59
+
+Error Version:
+Class name:Titan
+Incorrected version:-3
+Message:Test Inner Exeption
+StackTrace:
+Inner Exeption:Попытка деления на нуль.
+
+Error Version:
+Class name:Titan
+Incorrected version:-3
+Message:Test Inner Exeption
+StackTrace:
+Inner Exeption:Попытка деления на нуль.
+
+Перехватили исключение IncorectedVersionExeption.
+Date:09.04.2014 20:13:22
+
