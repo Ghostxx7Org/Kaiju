@@ -1,0 +1,28 @@
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\UnitTest_1\obj\Debug\UnitTest_1.csprojResolveAssemblyReference.cache
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\UnitTest_1\bin\Debug\UnitTest_1.dll
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\UnitTest_1\bin\Debug\UnitTest_1.pdb
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\UnitTest_1\obj\Debug\UnitTest_1.dll
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\UnitTest_1\obj\Debug\UnitTest_1.pdb
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\UnitTest_1\bin\Debug\Kaiju.exe
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\UnitTest_1\bin\Debug\Kaiju.pdb
+D:\Coding\Project\ProjectKaiju\Kaiju\UnitTest_1\obj\Debug\UnitTest_1.csprojResolveAssemblyReference.cache
+D:\Coding\Project\ProjectKaiju\Kaiju\UnitTest_1\obj\Debug\UnitTest_1.dll
+D:\Coding\Project\ProjectKaiju\Kaiju\UnitTest_1\obj\Debug\UnitTest_1.pdb
+D:\Coding\Project\ProjectKaiju\Kaiju\UnitTest_1\bin\Debug\UnitTest_1.dll
+D:\Coding\Project\ProjectKaiju\Kaiju\UnitTest_1\bin\Debug\UnitTest_1.pdb
+D:\Coding\Project\ProjectKaiju\Kaiju\UnitTest_1\bin\Debug\Kaiju.exe
+D:\Coding\Project\ProjectKaiju\Kaiju\UnitTest_1\bin\Debug\Kaiju.pdb
+E:\SkyDrive\Project\Kaiju\UnitTest_1\bin\Debug\UnitTest_1.dll
+E:\SkyDrive\Project\Kaiju\UnitTest_1\bin\Debug\UnitTest_1.pdb
+E:\SkyDrive\Project\Kaiju\UnitTest_1\bin\Debug\Kaiju.exe
+E:\SkyDrive\Project\Kaiju\UnitTest_1\bin\Debug\Kaiju.pdb
+E:\SkyDrive\Project\Kaiju\UnitTest_1\obj\Debug\UnitTest_1.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Project\Kaiju\UnitTest_1\obj\Debug\UnitTest_1.dll
+E:\SkyDrive\Project\Kaiju\UnitTest_1\obj\Debug\UnitTest_1.pdb
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\UnitTest_1\bin\Debug\UnitTest_1.dll
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\UnitTest_1\bin\Debug\UnitTest_1.pdb
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\UnitTest_1\bin\Debug\Kaiju.exe
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\UnitTest_1\bin\Debug\Kaiju.pdb
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\UnitTest_1\obj\Debug\UnitTest_1.csprojResolveAssemblyReference.cache
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\UnitTest_1\obj\Debug\UnitTest_1.dll
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\UnitTest_1\obj\Debug\UnitTest_1.pdb

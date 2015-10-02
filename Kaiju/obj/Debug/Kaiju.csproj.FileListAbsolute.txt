@@ -1,0 +1,57 @@
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\bin\Debug\Kaiju.exe.config
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\bin\Debug\Kaiju.exe
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\bin\Debug\Kaiju.pdb
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\obj\Debug\Kaiju.exe
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\obj\Debug\Kaiju.pdb
+D:\Coding\Project\Temp\Console\ConsoleTrening_1\ConsoleTrening_1\obj\Debug\Kaiju.csprojResolveAssemblyReference.cache
+D:\Coding\Project\ProjectKaiju\Kaiju\ConsoleTrening_1\bin\Debug\Kaiju.exe.config
+D:\Coding\Project\ProjectKaiju\Kaiju\ConsoleTrening_1\obj\Debug\Kaiju.exe
+D:\Coding\Project\ProjectKaiju\Kaiju\ConsoleTrening_1\obj\Debug\Kaiju.pdb
+D:\Coding\Project\ProjectKaiju\Kaiju\Kaiju\bin\Debug\Kaiju.exe.config
+D:\Coding\Project\ProjectKaiju\Kaiju\Kaiju\bin\Debug\Kaiju.exe
+D:\Coding\Project\ProjectKaiju\Kaiju\Kaiju\bin\Debug\Kaiju.pdb
+D:\Coding\Project\ProjectKaiju\Kaiju\Kaiju\obj\Debug\Kaiju.exe
+D:\Coding\Project\ProjectKaiju\Kaiju\Kaiju\obj\Debug\Kaiju.pdb
+D:\Coding\Project\ProjectKaiju\Kaiju\Kaiju\obj\Debug\Kaiju.csprojResolveAssemblyReference.cache
+D:\Coding\Project\ProjectKaiju\Kaiju\Kaiju\obj\Debug\NKaiju.Resource_1.resources
+D:\Coding\Project\ProjectKaiju\Kaiju\Kaiju\obj\Debug\Kaiju.csproj.GenerateResource.Cache
+E:\SkyDrive\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe.config
+E:\SkyDrive\Project\Kaiju\Kaiju\obj\Debug\Kaiju.exe
+E:\SkyDrive\Project\Kaiju\Kaiju\obj\Debug\Kaiju.pdb
+E:\SkyDrive\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe
+E:\SkyDrive\Project\Kaiju\Kaiju\bin\Debug\Kaiju.pdb
+E:\SkyDrive\Project\Kaiju\Kaiju\obj\Debug\NKaiju.Resource_1.resources
+E:\SkyDrive\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csproj.GenerateResource.Cache
+E:\SkyDrive\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csprojResolveAssemblyReference.cache
+E:\Copy\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe.config
+E:\Copy\Project\Kaiju\Kaiju\obj\Debug\Kaiju.exe
+E:\Copy\Project\Kaiju\Kaiju\obj\Debug\Kaiju.pdb
+E:\Copy\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe
+E:\Copy\Project\Kaiju\Kaiju\bin\Debug\Kaiju.pdb
+E:\Copy\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csprojResolveAssemblyReference.cache
+E:\Copy\Project\Kaiju\Kaiju\obj\Debug\NKaiju.Resource_1.resources
+E:\Copy\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csproj.GenerateResource.Cache
+D:\Temp\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe.config
+D:\Temp\Project\Kaiju\Kaiju\obj\Debug\Kaiju.exe
+D:\Temp\Project\Kaiju\Kaiju\obj\Debug\Kaiju.pdb
+D:\Temp\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe
+D:\Temp\Project\Kaiju\Kaiju\bin\Debug\Kaiju.pdb
+D:\Temp\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csprojResolveAssemblyReference.cache
+D:\Temp\Project\Kaiju\Kaiju\obj\Debug\NKaiju.Resource_1.resources
+D:\Temp\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csproj.GenerateResource.Cache
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe.config
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\Kaiju\obj\Debug\Kaiju.exe
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\Kaiju\obj\Debug\Kaiju.pdb
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\Kaiju\bin\Debug\Kaiju.pdb
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\Kaiju\obj\Debug\NKaiju.Resource_1.resources
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csproj.GenerateResource.Cache
+D:\Copy ghostxx7@gmail.com\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csprojResolveAssemblyReference.cache
+D:\Copy\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe.config
+D:\Copy\Project\Kaiju\Kaiju\obj\Debug\Kaiju.exe
+D:\Copy\Project\Kaiju\Kaiju\obj\Debug\Kaiju.pdb
+D:\Copy\Project\Kaiju\Kaiju\bin\Debug\Kaiju.exe
+D:\Copy\Project\Kaiju\Kaiju\bin\Debug\Kaiju.pdb
+D:\Copy\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csprojResolveAssemblyReference.cache
+D:\Copy\Project\Kaiju\Kaiju\obj\Debug\NKaiju.Resource_1.resources
+D:\Copy\Project\Kaiju\Kaiju\obj\Debug\Kaiju.csproj.GenerateResource.Cache
